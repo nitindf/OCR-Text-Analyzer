@@ -1,6 +1,6 @@
 # OCR based Text Analyzer
 
- **[Live Demo](https://ocr-text-analyzer-app.web.app)**
+### [Live Demo](https://ocr-text-analyzer-app.web.app)
 
 ## SCREENSHOTS
 
